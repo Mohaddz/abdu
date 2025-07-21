@@ -1,8 +1,0 @@
-kmeans_cluster,app_name,sentiment_camel,sentiment_arabert,text,label,Expert 1(M),Expert 2 (T),Expert 3,Unnamed: 9,Unnamed: 10
-0,aliExpress_AS,negative,negative,يجنن في متناول الجميع,non-security,A,A,,,Agreement
-1,AIChatBot-Nova_GP,negative,negative,بالبرنامج عيزو بالغه العربيه,non-security,A,A,,,Agreement
-1,AIChatBot-Nova_GP,negative,negative,هو ليه مبلغ مالى وكمان اسبوعى حرام طبعا وكمان كله انجلش,non-security,A,A,,,Agreement
-1,whatsApp_GP,neutral,neutral,البرنامج روعه بس مايحفظ الخصوصيه يعني يسمح بتجسس عليك حسبي ع من تجسس اللهم اشغله بنفسه اللهم اجعل كيده في نحره اخواني الي ترقمون هداكم الله الله يصلح شانكم الله يستر عليكم ويستر عرض حريمكم الله يجعل للهدايه لكم سبيل الله يحفظكم ويصلحكم ويجعلكم دعاه في سبيله الله ينور وجيهكم اذا اضلمت وجيه الله لايكشف ستركم ويبعدكم عن الحرام امين اخنكم في الله,security,A,A,,,Agreement
-0,AIChatBot-Nova_GP,negative,negative,تطبيق فاااشل جدا جدا جدا شات جي بيتي احسن منه يعني او سألته عن موعد إشي هو يقولك روح دور عليه وانت شو شغلك ؟؟؟؟؟ بإختصار تطبيق فاشل,non-security,A,A,,,Agreement
-1,AIChatBot-Nova_GP,negative,negative,البرنامج كلش واهله كل زينين بس في شغله وحده مو حلوه اللي هي انه البرنامج يحتاج له انه واحد يتكلم عربي ولا يتكلم معاك عربي خمس دقائق عشر دقائق وخلاص وانا عربيه يعني كيف اتكلم انجليزي ما اقدر لانه ما اعرف؟,non-security,A,A,,,Agreement
-1,tiktok_GP,neutral,neutral,عربية,non-security,A,A,,,Agreement
